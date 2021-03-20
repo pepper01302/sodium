@@ -1,3 +1,3 @@
 # sodium
 
-**Some daft markdown forums project.**
+Some daft markdown forums project.
